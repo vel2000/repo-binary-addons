@@ -1,1 +1,1 @@
-pvr.zattoo https://github.com/vel2000/pvr.zattoo zattoo
+pvr.zattoo https://github.com/rbuehlma/pvr.zattoo zattoo
