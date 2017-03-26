@@ -1,1 +1,1 @@
-inputstream.mpd https://github.com/peak3d/inputstream.mpd master
+inputstream.mpd https://github.com/rbuehlma/inputstream.mpd zattoo_dash
